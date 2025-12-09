@@ -4,7 +4,7 @@
 
 This repository contains the code and data associated with the research article:
 
-**"Addressing the Spatio-Temporal Blurring Effect on Fluorescence Lifetime Imaging Microscopy"**  
+**Addressing the Spatio-Temporal Blurring Effect on Fluorescence Lifetime Imaging Microscopy**  
 by Mario González-Gutiérrez, et. al.
 ---
 
