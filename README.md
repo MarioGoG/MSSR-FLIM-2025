@@ -44,5 +44,3 @@ Mario González-Gutiérrez¹, Nicolás Mateos², Wonsang Hwang³, Diana M. Vázq
 ├── requirements.txt (to be filled)
 │
 ├── /code/ # All Jupyter Notebooks
-│
-└── /data/ # Input/sample datasets
