@@ -4,7 +4,7 @@
 
 This repository contains the code and data associated with the research article:
 
-**Addressing the Spatio-Temporal Blurring Effect on Fluorescence Lifetime Imaging Microscopy**, by Mario González-Gutiérrez, et. al.
+**PSF-Driven Spatio-Temporal Blending in Fluorescence Lifetime Imaging Microscopy and Its Mitigation via Mean-Shift Super-Resolution–Based Masking**, by Mario González-Gutiérrez, et. al.
 
 ---
 
@@ -26,15 +26,18 @@ This work establishes MSSR as a robust and efficient approach for enhancing spat
 ## Authors & Affiliations
 
 **Authors:**  
-Mario González-Gutiérrez¹, Nicolás Mateos², Wonsang Hwang³, Diana M. Vázquez-Enciso¹, Esley Torres-García⁴, Jenu V. Chacko⁵, Iván Coto Hernández⁶, Pablo Álvarez-Loza², Christopher Wood¹, Adan Guerrero¹
+Mario González-Gutiérrez¹, Diana M. Vázquez-Enciso¹, Nicolás Mateos², Wonsang Hwang³, Esley Torres-García⁴, Haydee O. Hernández⁵, Jenu V. Chacko⁶, Iván Coto Hernández⁷, Pablo Álvarez-Loza², Christopher Wood¹, Adan Guerrero¹<sup>,</sup>⁸<sup>,</sup>*
 
 **Affiliations:**  
-1. Laboratorio Nacional de Microscopía Avanzada, Instituto de Biotecnología, UNAM, Mexico  
-2. Institut de Ciencies Fotoniques, Catalunya, Spain  
-3. Wellman Center for Photomedicine, Harvard Medical School, MGH, USA  
-4. Facultad de Ingeniería, Universidad de la República, Uruguay  
-5. Laboratory for Optical and Computational Instrumentation, University of Wisconsin–Madison, USA  
-6. Institute for Innovation in Imaging, MGH and Harvard Medical School, USA
+1. Laboratorio Nacional de Microscopía Avanzada, Instituto de Biotecnología, Universidad Nacional Autónoma de México, Cuernavaca, Morelos, Mexico.
+2. Institut de Ciencies Fotoniques, Castelldefels, Catalunya, Spain.
+3. Wellman Center for Photomedicine, Harvard Medical School, Massachusetts General Hospital, CNY149, 13th St, Charlestown, 02129, MA, USA.
+4. Facultad de Ingeniería, Universidad de la República, Montevideo, Uruguay. 
+5. Centro de Investigación en Ciencias, Universidad Autónoma del Estado de Morelos, Cuernavaca, Morelos, Mexico.
+6. Laboratory for Optical and Computational Instrumentation, University of Wisconsin at Madison, 1675 Observatory Dr., Madison, WI 53706, USA.
+7. Center for Interdisciplinary Innovation in Imaging, Massachusetts General Hospital and Harvard Medical School, 149 13th St, Charlestown, 02129, MA, USA.
+8. Centro Internacional de Ciencias AC. Cuernavaca, Morelos, Mexico.
+
 
 ---
 
