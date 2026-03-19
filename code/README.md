@@ -11,7 +11,7 @@ This repository contains Jupyter Notebooks for simulating, analyzing, and enhanc
 | **05_TD-FLIM_MSSR.ipynb**                               | **MSSR on Beads**: Applies Mean Shift Super Resolution (MSSR) to simple TD-FLIM data, typically using bead samples, to demonstrate the resolution enhancement capabilities of the algorithm.                                           |
 | **06_TD-FLIM_gatta-quant.ipynb**                         | **GATTA-Cells Analysis**: Performs standard lifetime imaging of 3-color GATTA-Cells samples using TD-FLIM methods. This notebook contains the basic workflow for analysis without the advanced MSSR quantitative metrics in later versions. |
 | **09_Spatial diffraction-induced phasor.ipynb**          | **Diffraction Effects**: Theoretical analysis and simulation of how the Point Spread Function (PSF) leads to spatial averaging and phasor shifts at boundaries. This helps in understanding diffraction-induced distortions in FLIM data. |
-| **v_08_TD_FLIM_3CGQ_2025_10_17_PhasorPy07.ipynb**       | **Advanced Experimental Analysis**: An advanced pipeline for analyzing 3-color GATTA-Cells with TD-FLIM. Includes MSSR-enhanced phasor segmentation, ROI-specific component analysis, quantitative cluster metrics, and PhasorPy 0.7 compatibility. |
+| **08_Exp_TD-FLIM_Phasor_Analysis_MSSR_Mask.ipynb**       | **Advanced Experimental Analysis**: An advanced pipeline for analyzing 3-color GATTA-Cells with TD-FLIM. Includes MSSR-enhanced phasor segmentation, ROI-specific component analysis, quantitative cluster metrics, and PhasorPy 0.7 compatibility. |
 
 ## Requirements
 
